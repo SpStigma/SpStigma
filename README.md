@@ -11,8 +11,10 @@ You can check my repositories to see the projects I am working on at Holberton.
 <br>
 
 ## Tech Stack
+<p>
 <img height="25em" src="https://img.shields.io/badge/c-A8B9CC?logo=c&logoColor=white&style=for-the-badge">
 <img height="25em" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge">
+</p>
 
 
 
