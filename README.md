@@ -5,6 +5,7 @@
 </p>
 <h1 align="center"> </h1>
 <br>
+## About me:
 I'm a student at holberton school in Toulouse, passionate about learning how to code.
 I'm currently learning C and will start to learn Python soon.
 You can check my repositories to see the projects I am working on at Holberton.
