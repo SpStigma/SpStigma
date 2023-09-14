@@ -20,7 +20,7 @@ You can check my repositories to see the projects I am working on at Holberton.
 
 ## Statistique
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpStigma&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=SpStigma&theme=shadow_red">
 
 
 
