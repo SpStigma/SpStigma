@@ -1,4 +1,4 @@
-<h1 align="center"> Hi , I'm Rivet Yoann,</h1>
+<h1 align="center"> Hi, I'm Rivet Yoann,</h1>
 
 <p align="center">
 <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif"/>
