@@ -1,8 +1,9 @@
-<div id="header" align="center">
+<p style="text-align: center;"> Hi , I'm Rivet Yoann,</p>
+
+<p align="center">
 <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif"/>
-</div>
+</p>
   
-#Hi 👋 I'm Rivet Yoann
 
 I'm a student at holberton school in Toulouse, passionate about learning how to code.
 I'm currently learning C and will start to learn Python soon.
