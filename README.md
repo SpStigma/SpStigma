@@ -3,7 +3,6 @@
 <p align="center">
 <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif"/>
 </p>
-<h1 align="center"> </h1>
 
 ## About me:
 
