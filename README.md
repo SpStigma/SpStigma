@@ -18,6 +18,10 @@ You can check my repositories to see the projects I am working on at Holberton.
 <img height="25em" src="https://img.shields.io/badge/PowerShell-5391FE?logo=PowerShell&logoColor=white&style=for-the-badge">
 </p>
 
+## Statistique
+
+![SpStigma's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpStigma&theme=shadow_red_icons=true)
+
 
 
 <!--
