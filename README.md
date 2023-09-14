@@ -20,7 +20,7 @@ You can check my repositories to see the projects I am working on at Holberton.
 
 ## Statistique
 
-<img src="https://github-readme-stats.vercel.app/api?username=spstigma">
+<img src="https://github-readme-stats.vercel.app/api?username=spstigma&theme=shadow_red">
 
 
 
