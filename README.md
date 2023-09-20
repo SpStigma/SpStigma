@@ -1,10 +1,12 @@
 <h1 align="center"> Hi, I'm Rivet Yoann,</h1>
 
 <p align="center">
-<img height="100em" src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif"/>
+<img height="300em" src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&pause=1000&color=F70000&center=true&width=440&lines=HOLBERTON+SCHOOL)](https://git.io/typing-svg)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&pause=1000&color=F70000&center=true&width=440&lines=HOLBERTON+SCHOOL">
+</p>
 
 ## About me:
 
