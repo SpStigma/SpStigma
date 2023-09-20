@@ -1,4 +1,5 @@
 <h1 align="center"> Hi, I'm Rivet Yoann,</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&pause=1000&color=F70000&center=true&width=440&lines=HOLBERTON+SCHOOL)](https://git.io/typing-svg)
 
 <p align="center">
 <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif"/>
@@ -6,7 +7,6 @@
 
 ## About me:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&pause=1000&color=F70000&center=true&width=440&lines=HOLBERTON+SCHOOL)](https://git.io/typing-svg)
 I'm a student at holberton school in Toulouse, passionate about learning how to code.
 I'm currently learning C and will start to learn Python soon.
 You can check my repositories to see the projects I am working on at Holberton.
