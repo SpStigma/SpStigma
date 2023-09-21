@@ -25,12 +25,10 @@ You can check my repositories to see the projects I am working on at Holberton.
 ## Statistique
 
 <p align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=spstigma&hide=contribs&theme=shadow_red#gh-light-mode-only&hide_title=true">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=spstigma&hide=contribs&theme=shadow_red#gh-dark-mode-only&hide_title=true">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=spstigma&hide=contribs&theme=transparent&hide_title=true">
 </p>
 
 <p align="center">
-<img height=="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spstigma&layout=donut&theme=transparent">
 <img height=="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spstigma&layout=donut&theme=transparent">
 </p>
 
