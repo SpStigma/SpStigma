@@ -25,7 +25,7 @@ You can check my repositories to see the projects I am working on at Holberton.
 ## Statistique
 
 <p align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=spstigma&hide=contribs&theme=transparent&hide_title=true">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=spstigma&hide=contribs&hide_title=true&theme=transparent">
 </p>
 
 <p align="center">
