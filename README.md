@@ -29,7 +29,7 @@ You can check my repositories to see the projects I am working on at Holberton.
 </p>
 
 <p align="center">
-<img height=="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spstigma&layout=donut">
+<img height=="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spstigma&layout=donut,&theme=shadow_red">
 </p>
 
 <!--
