@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Rivet Yoann,</h1>
 
 <p align="center">
-<img height="300em" src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif"/>
+<img height="300em" src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif">
 </p>
 
 <p align="center">
