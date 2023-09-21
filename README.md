@@ -27,8 +27,10 @@ You can check my repositories to see the projects I am working on at Holberton.
 <p align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=spstigma&hide=contribs,&theme=shadow_red,&hide_title=true">
 </p>
-<img height=="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spstigma&layout=compact">
 
+<p align="center">
+<img height=="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spstigma&layout=compact">
+</p>
 
 <!--
 **SpStigma/SpStigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
