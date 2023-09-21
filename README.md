@@ -26,7 +26,6 @@ You can check my repositories to see the projects I am working on at Holberton.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=spstigma&hide=contribs,&theme=shadow_red,&hide_title=true">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spstigma&layout=compact">
 </p>
 
