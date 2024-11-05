@@ -32,6 +32,19 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpStigma&hide=java,html,Makefile,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 
+
+## LEET CODE ❤️❤️❤️
+
+name: TheStigma
+uses: TheStigma/metrics@latest
+with:
+  filename: metrics.plugin.leetcode.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_leetcode: yes
+  plugin_leetcode_sections: solved, skills, recent
+
+
 <!--
 **SpStigma/SpStigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
