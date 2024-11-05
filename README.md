@@ -34,15 +34,7 @@
 
 
 ## LEET CODE ❤️❤️❤️
-
-name: TheStigma
-uses: TheStigma/metrics@latest
-with:
-  filename: metrics.plugin.leetcode.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_leetcode: yes
-  plugin_leetcode_sections: solved, skills, recent
+https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.leetcode.svg
 
 
 <!--
