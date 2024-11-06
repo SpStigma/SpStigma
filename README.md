@@ -34,7 +34,13 @@
 
 
 ## LEET CODE ❤️❤️❤️
-https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.leetcode.svg
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/fchavonet?theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/fchavonet?theme=dark">
+        <img src="https://leetcard.jacoblin.cool/fchavonet" alt="LeetCode statistics">
+    </picture>
+</p>
 
 
 <!--
