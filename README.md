@@ -36,9 +36,9 @@
 ## LEET CODE ❤️❤️❤️
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/fchavonet?theme=light">
-        <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/fchavonet?theme=dark">
-        <img src="https://leetcard.jacoblin.cool/fchavonet" alt="LeetCode statistics">
+        <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/TheStigma?theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/TheStigma?theme=dark">
+        <img src="https://leetcard.jacoblin.cool/TheStigma" alt="LeetCode statistics">
     </picture>
 </p>
 
