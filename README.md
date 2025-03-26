@@ -9,8 +9,7 @@
 </p>
 
 ## About me:
-
-🎓 I'm a 2nd-year student at Holberton, specializing in AR/VR. I've worked with various languages like Python, C, and more. Currently, my main focus is C# with Unity. Check out my pinned projects for a good glimpse of what I can do—thanks to Holberton!
+Passionate about development and specialized in AR/VR, I earned my diploma from Holberton in this field. I have worked with multiple languages, including Python and C, but my main language is C#. Currently, I’m developing several games in Unity to hone my skills, and in my free time, I’m learning Angular with C#.
 <br>
 
 ## Tech Stack
