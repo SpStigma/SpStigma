@@ -9,7 +9,8 @@
 </p>
 
 ## About me:
-Passionate about development and specialized in AR/VR, I earned my diploma from Holberton in this field. I have worked with multiple languages, including Python and C, but my main language is C#. Currently, I’m developing several games in Unity to hone my skills, and in my free time, I’m learning Angular with C#.
+Passionate about development, I hold a diploma in AR/VR from Holberton. With a strong foundation in C#, I’m now focusing on learning the Microsoft ecosystem. I’m currently working with Angular for web development and C# for backend and game projects, including several games built in Unity.
+
 <br>
 
 ## Tech Stack
