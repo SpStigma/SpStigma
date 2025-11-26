@@ -25,14 +25,6 @@ Passionate about development, I hold a diploma in AR/VR from Holberton. With a s
 <img height="25em" src="https://img.shields.io/badge/PowerShell-5391FE?logo=PowerShell&logoColor=white&style=for-the-badge">
 </p>
 
-## Statistique
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SpStigma&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=f75c7e&bg_color=1d1f21" alt="SpStigma's GitHub Stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpStigma&hide=java,html,Makefile,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-
-
 ## LEET CODE ❤️❤️❤️
 <p align="center">
     <picture>
