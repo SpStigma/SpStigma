@@ -1,4 +1,4 @@
-##I'm Rivet Yoann
+## I'm Rivet Yoann
 
 ## About me:
 Passionate about development, I hold a diploma in AR/VR from Holberton. With a strong foundation in C#, I’m now focusing on learning the Microsoft ecosystem. I’m currently working with Angular for web development and C# for backend and game projects, including several games built in Unity.
