@@ -1,10 +1,4 @@
-<p align="center">
-<img height="300em" src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif">
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&pause=1000&color=F70000&center=true&width=440&lines=I'm Rivet Yoann">
-</p>
+##I'm Rivet Yoann
 
 ## About me:
 Passionate about development, I hold a diploma in AR/VR from Holberton. With a strong foundation in C#, I’m now focusing on learning the Microsoft ecosystem. I’m currently working with Angular for web development and C# for backend and game projects, including several games built in Unity.
